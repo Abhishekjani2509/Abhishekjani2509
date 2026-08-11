@@ -48,7 +48,8 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-1E3A8A?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 **Backend**
 
@@ -63,11 +64,25 @@
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,github,postman,linux,vercel&theme=dark" />
 
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+<img src="https://img.shields.io/badge/pytest-1D4ED8?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-1E3A8A?style=for-the-badge&logo=junit5&logoColor=white" />
+
 **AI Engineering**
 
 <img src="https://img.shields.io/badge/Claude_API-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-1D4ED8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-1E3A8A?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-1D4ED8?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot-1E3A8A?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+**Platforms & Integrations**
+
+<img src="https://img.shields.io/badge/Razorpay-3B82F6?style=for-the-badge&logo=razorpay&logoColor=white" />
+
+*Also working with* `InsForge` · `EverOS` · `VoiceOS` · `a1mobile` · `Novita` · `AWS Textract` · `Redpanda` · `Playwright`
 
 </div>
 
