@@ -22,15 +22,16 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
 
-> Software Engineer with a **Master's in Computer Science** and hands-on experience building **backend services, RESTful APIs, database systems, and full-stack web applications**. I have a strong foundation in designing **server-side logic, authentication, and cloud-native solutions**, and I care about writing reliable, scalable systems that hold up in production.
+> Software Engineer with a **Master's in Computer Science**, building **full-stack systems that hold up in production** — from **React interfaces and API contracts** through **CI/CD and cloud deployment**. Most of my work lands where correctness under failure matters: event-sourced ledgers, LLM proxies with measured cost savings, and cloud-native data pipelines.
 
-- 🎓 M.S. Computer Science candidate at **California State University, Fullerton** *(Aug 2024 – May 2026)*
-- 🧑‍🏫 **Teaching Associate** delivering `Python Programming (CPSC 223P)` and `Intro to AI (CPSC 481)` to 35–40+ students per section
-- ⚙️ Backend-leaning full-stack engineer — **Node.js, Express, Django, Flask, PostgreSQL, MongoDB, AWS**
-- 🚀 Product-engineering mindset: from **schema design and API contracts** to **CI/CD and cloud deployment**
-- 🔐 Focused on **secure, performant systems** — JWT/bcrypt auth, query optimization, and clean, tested code
+- 🎓 **M.S. Computer Science**, California State University, Fullerton *(Aug 2024 – May 2026)*
+- 🧑‍🏫 **Teaching Associate** delivering `Python Programming (CPSC 223P)` and `Artificial Intelligence (CPSC 481)` to 35–40+ students per section
+- ⚙️ Full-stack engineer — **Java 21 / Spring Boot, Python / FastAPI, Node.js, React, Next.js, PostgreSQL, Kafka, Redis**
+- ☁️ Cloud & DevOps — **AWS, Terraform, Docker, Kubernetes, GitHub Actions**, infrastructure as code and CI/CD pipelines
+- 🤖 This past year: **AI agent infrastructure** — LLM gateway proxying, MCP tool interfaces, multi-agent orchestration, output parity grading
+- 🌐 Portfolio → **[abhishekjani.dev](https://abhishekjani.dev)**
 
-**🔵 Open To:** `Software Engineer` · `Backend Engineer` · `Full-Stack Engineer` · `Cloud / Platform Engineer` roles
+**🔵 Open To:** `Software Engineer` · `Backend Engineer` · `Full-Stack Engineer` · `Cloud / Platform Engineer` · `AI Engineer` roles
 
 ---
 
@@ -42,20 +43,31 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,cpp,bash&theme=dark" />
 <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" />
 
-**Backend & Databases**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,django,flask&theme=dark" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/Snowflake-1D4ED8?style=for-the-badge&logo=snowflake&logoColor=white" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,github,postman,linux,vercel&theme=dark" />
+
+**AI Engineering**
+
+<img src="https://img.shields.io/badge/Claude_API-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-1D4ED8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-1E3A8A?style=for-the-badge&logo=claude&logoColor=white" />
 
 </div>
 
